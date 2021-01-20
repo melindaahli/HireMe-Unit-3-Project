@@ -1,0 +1,75 @@
+body {
+    margin-left: 30px;
+}
+
+img {
+    border-radius: 10px;
+    width: 180px;
+    padding: 2px;
+}
+
+button:hover {
+    opacity: 0.6;
+}
+
+h1 {
+    font-family: 'News Cycle', sans-serif;
+    color: #231f20;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    line-height: 1;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: 'News Cycle', sans-serif;
+    color: #231f20;
+    font-size: 30px;
+}
+
+body {
+    background-color: #cad9ee;
+}
+
+li {
+    font-family: 'Lato', sans-serif;
+    line-height: 2.5;
+    color: #231f20;
+    font-size: 18px;
+
+}
+
+ul .square {
+    list-style-type: none;
+    display: inline;
+}
+
+
+button {
+    border: 10px;
+    padding: 85px 90px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    box-shadow: 5px 5px #9e9e9e;
+}
+
+.btn1 button {
+    background-color: #5ae0a1;
+}
+
+.btn2 button {
+    background-color: #807bfc;
+}
+
+.btn3 button {
+    background-color: #fc7fb7;
+}
+
+.btn4 button {
+    background-color: #2e7dc9;
+}
